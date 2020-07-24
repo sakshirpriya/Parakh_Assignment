@@ -1,0 +1,45 @@
+table{
+    border: 1px solid black;
+}
+.makeCenter{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.row th, td{
+    border: 1px solid black;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+/* .parent {
+    display: grid;
+    place-items: center;
+    
+    background: lightblue;
+    width: 500px;
+    height: 500px;
+    
+    resize: both;
+    overflow: auto;
+  }
+  
+  .child {
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: 1px solid red;
+    background: lightpink;
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  body {
+    font-family: system-ui, serif;
+  } */
